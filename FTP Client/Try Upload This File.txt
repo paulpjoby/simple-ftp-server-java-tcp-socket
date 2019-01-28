@@ -1,1 +1,1 @@
-NOTE : This file is a sample file which you can try to upload to server after running the server and client.
+NOTE : Simple This file is a sample file which you can try to upload to server after running the server and client.
